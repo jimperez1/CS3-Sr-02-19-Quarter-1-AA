@@ -1,6 +1,7 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-color: #161616;
 }
  h1.maintitle {
   font-family: Times New Roman, serif; 
@@ -16,4 +17,27 @@ html, body {
   padding-top: 0px;
    }
 
-   
+    div {
+      color: #FFFFFF;
+    }
+
+  a{
+      color: #FFFFFF;
+    }
+
+  div.header {
+      background-color: #101010;
+      padding: 20px;
+      text-align: center;
+      vertical-align: top;
+      width: 100%;
+    }
+
+
+    div.footer {
+      width: 100%;
+      background-color: #090909;
+      padding: 20px;
+      text-align: center;
+      vertical-align: bottom;
+    }
